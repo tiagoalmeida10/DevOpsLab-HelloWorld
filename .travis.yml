@@ -1,11 +1,9 @@
 # Linguagem Utilizada para Desenvolver a Aplicação
 language: python
 
-dist: bionic
-
 # Versão que a aplicação suporta.
 python:
-  - "3.9.5"
+  - "3.6.3"
 
 # Faz a instalação com Sudo, para ter privilégio de Super Usuário.
 sudo: required
